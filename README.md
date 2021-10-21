@@ -4,7 +4,7 @@
 - 🎓 Freshman from SastraUniversity
 - 👨‍🎓 Graduated High school from KendriyaVidyalaya
 - 🌱 Learning and Growing exponentially📈
-- 👩‍💻 Strongly believe that tech (not only IT) can solve problems of IN and 🌏
+- 👩‍💻 Strongly believe that tech (not only IT) can progress of IN and 🌏
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
