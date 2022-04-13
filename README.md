@@ -22,7 +22,7 @@
 
 - Javascript | Svelte | Css | Python | Mysql | Anchor | C
 
-[![Chidam's GitHub stats](https://github-readme-stats.vercel.app/api?username=chidam333&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Chidam's GitHub stats](https://github-readme-stats.vercel.app/api?username=chidam333&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
