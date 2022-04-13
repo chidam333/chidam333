@@ -20,10 +20,10 @@
 
 ## Skills I know !!
 
-![](https://img.icons8.com/color/64/000000/python.png)![](https://img.icons8.com/color/64/000000/mysql-logo.png)![](https://img.icons8.com/color/64/000000/html-5.png)![](https://img.icons8.com/color/64/000000/bootstrap.png)
+- Javascript | Svelte | Css | Python | Mysql | Anchor | C
 
-## Skill i intend to learn !!
-![](https://img.icons8.com/color/64/000000/c.png)![](https://img.icons8.com/color/64/000000/javascript.png)![](https://img.icons8.com/color/64/000000/bitcoin.png)![](https://img.icons8.com/fluency/64/000000/ethereum.png)
+[![Chidam's GitHub stats](https://github-readme-stats.vercel.app/api?username=chidam333)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
