@@ -1,7 +1,7 @@
 ### Namaste ! You can call me Chidam 
 [![Twitter Follow](https://img.shields.io/twitter/follow/chidam333?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Chidam333)
 ## I am creator , developer and designer !!
-- 🎓 Currently sophomore from SastraUniversity
+- 🎓 Currently sophomore at SastraUniversity
 - 👨‍🎓 Graduated High school from KendriyaVidyalaya
 - 🌱 Learning and Growing exponentially📈
 - 👩‍💻 Strongly believe that tech (not only IT) can progress of IN and 🌏
@@ -20,7 +20,8 @@
 
 ## Skills I know !!
 
-- Javascript | Svelte | Css | Python | Mysql | Anchor | C
+- Sveltekit (Building fullscale scalable applications with mordern web standards) | Postgres | Tailwind
+- Anchor (Writing Dapps and programming smart contracts on solana)
 
 [![Chidam's GitHub stats](https://github-readme-stats.vercel.app/api?username=chidam333&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
