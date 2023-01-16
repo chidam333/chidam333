@@ -1,29 +1,24 @@
-### Namaste ! You can call me Chidam 
+### Namaste ! You can call me Chidam 🇮🇳
 [![Twitter Follow](https://img.shields.io/twitter/follow/chidam333?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Chidam333)
-## I am creator , developer and designer !!
+## I am engineering small projects now (free for anything exciting)
 - 🎓 Currently sophomore at SastraUniversity
+- 🗺️ Building a map app
 - 👨‍🎓 Graduated High school from KendriyaVidyalaya
 - 🌱 Learning and Growing exponentially📈
 - 👩‍💻 Strongly believe that tech (not only IT) can progress of IN and 🌏
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
 
-</details>
+<a href="mailto:dev@chidam.xyz">mail (dev@chidam.xyz)</a>
 
-[twitter]: https://twitter.com/Chidam333
-[youtube]: https://www.youtube.com/channel/UCouE2kqMANoTKFONvI2XS2A
-[linkedin]: https://www.linkedin.com/in/chidambara-nathan-s-936475167/
+<a href="https://twitter.com/Chidam333" target="_blank">twitter (preferred)</a>
+
+<a href="https://www.linkedin.com/in/chidam333" target="_blank">linkedin</a>
 
 ## Skills I know !!
 
-- Sveltekit (Building fullscale scalable applications with mordern web standards) | Postgres | Tailwind
+- Sveltekit (Building fullstack scalable applications with mordern web standards) | Postgres | Tailwind
 - Anchor (Writing Dapps and programming smart contracts on solana)
-
-[![Chidam's GitHub stats](https://github-readme-stats.vercel.app/api?username=chidam333&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
