@@ -1,5 +1,5 @@
 ### Namaste ! You can call me Chidam 🇮🇳
-![landing page](https://www.chidam.xyz)
+[landing page](https://www.chidam.xyz)
 <br/>
 [![Twitter Follow](https://img.shields.io/twitter/follow/chidam333?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Chidam333)
 ## I am engineering small projects now (free for anything exciting)
