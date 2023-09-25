@@ -1,8 +1,6 @@
 ### Namaste ! You can call me Chidam 🇮🇳
 <br/>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/chidam333?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Chidam333)
-
 ## I am engineering small projects now (free for anything exciting)
 - 🎓 Currently sophomore at SastraUniversity
 - 🗺️ Building a map app
