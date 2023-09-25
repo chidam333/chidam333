@@ -1,7 +1,8 @@
 ### Namaste ! You can call me Chidam 🇮🇳
-[landing page](https://www.chidam.xyz)
 <br/>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/chidam333?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Chidam333)
+
 ## I am engineering small projects now (free for anything exciting)
 - 🎓 Currently sophomore at SastraUniversity
 - 🗺️ Building a map app
@@ -10,6 +11,8 @@
 - 👩‍💻 Strongly believe that tech (not only IT) can progress of IN and 🌏
 
 ### Connect with me:
+
+<a href="https://chidam.xyz/handles">landing page</a>
 
 <a href="mailto:dev@chidam.xyz">mail (dev@chidam.xyz)</a>
 
