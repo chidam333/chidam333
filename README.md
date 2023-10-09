@@ -2,9 +2,9 @@
 <br/>
 
 ## I am engineering small projects now (free for anything exciting)
-- 🎓 Currently pre final year at SastraUniversity
+- 🎓 Currently pre final year at sastraUniversity
 - 🗺️ Building a map app
-- 👨‍🎓 Graduated High school from KendriyaVidyalaya
+- 👨‍🎓 Graduated High school from kendriyaVidyalaya
 - 🌱 Learning and Growing exponentially📈
 - 👩‍💻 Strongly believe that tech (not only IT) can progress of IN and 🌏
 
