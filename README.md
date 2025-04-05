@@ -1,7 +1,7 @@
 
 ## I am engineering small projects now (free for anything exciting)
 - 🎓 Currently final year at sastra-university
-- 🗺️ Building [dicedb-sdk](https://www.npmjs.com/package/dicedb-sdk) now
+- 🗺️ Building [dicedb-sdk](https://www.npmjs.com/package/dicedb-sdk)
 - 👨‍🎓 Graduated High school from kendriya-vidyalaya
 - 🌱 Working on a product to manage resume 
 - 👩‍💻 Strongly believe that tech (not only IT) can progress of IN and 🌏
