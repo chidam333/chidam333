@@ -1,11 +1,9 @@
-### Namaste ! You can call me Chidam 🇮🇳
-<br/>
 
 ## I am engineering small projects now (free for anything exciting)
-- 🎓 Currently pre final year at sastraUniversity
-- 🗺️ Building a map app
-- 👨‍🎓 Graduated High school from kendriyaVidyalaya
-- 🌱 Learning and Growing exponentially📈
+- 🎓 Currently final year at sastra-university
+- 🗺️ Building [dicedb-sdk](https://www.npmjs.com/package/dicedb-sdk) now
+- 👨‍🎓 Graduated High school from kendriya-vidyalaya
+- 🌱 Working on a product to manage resume 
 - 👩‍💻 Strongly believe that tech (not only IT) can progress of IN and 🌏
 
 ### Connect with me:
@@ -21,6 +19,8 @@
 ## Skills I know !!
 
 - Sveltekit (Building fullstack scalable applications with mordern web standards) | Postgres | Tailwind
+- Nextjs | React | Tanstack (virtual, query)
+- Playing with bun runtime
 - Anchor (Writing Dapps and programming smart contracts on solana)
 
 
