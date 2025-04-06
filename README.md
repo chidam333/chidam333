@@ -10,7 +10,7 @@
 
 <a href="https://chidam.xyz/handles">landing page</a>
 
-<a href="mailto:dev@chidam.xyz">mail (dev@chidam.xyz)</a>
+<a href="mailto:chidam.sync@gmail.com">mail (chidam.sync@gmail.com)</a>
 
 <a href="https://twitter.com/Chidam333" target="_blank">twitter (preferred)</a>
 
